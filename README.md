@@ -1,6 +1,7 @@
 # Building a DAO
 
-![](https://i.imgur.com/6uXR2G9.png)
+###![](https://i.imgur.com/6uXR2G9.png)
+![](https://imgbox.com/p1QEQxAC.png)
 
 ## What is a DAO?
 
