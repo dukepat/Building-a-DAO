@@ -1,8 +1,6 @@
 # Building a DAO
 
-###![](https://i.imgur.com/6uXR2G9.png)
-![](https://imgbox.com/p1QEQxAC.png)
-
+![](https://i.imgur.com/6uXR2G9.png)
 ## What is a DAO?
 
 DAO stands for **D**ecentralized **A**utonomous **O**rganization. You can think of DAOs as analogous to companies in the real world. Essentially, DAOs allow for members to create and vote on governance decisions.
